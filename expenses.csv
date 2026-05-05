@@ -1,0 +1,92 @@
+Date,Amount,Category,Description
+2026-01-02 00:00:00,250,Food,Breakfast
+2026-01-05 00:00:00,1200,Shopping,Shoes
+2026-01-08 00:00:00,300,Transport,Auto
+2026-01-10 00:00:00,500,Food,Dinner
+2026-01-12 00:00:00,2000,Rent,January Rent
+2026-01-15 00:00:00,150,Food,Snacks
+2026-01-18 00:00:00,400,Entertainment,Movie
+2026-01-20 00:00:00,800,Shopping,Clothes
+2026-01-22 00:00:00,100,Transport,Bus
+2026-01-25 00:00:00,600,Food,Groceries
+2026-02-02 00:00:00,300,Food,Lunch
+2026-02-05 00:00:00,1000,Shopping,Bag
+2026-02-08 00:00:00,250,Transport,Auto
+2026-02-10 00:00:00,700,Food,Dinner
+2026-02-12 00:00:00,2000,Rent,February Rent
+2026-02-15 00:00:00,200,Food,Snacks
+2026-02-18 00:00:00,500,Entertainment,Concert
+2026-02-20 00:00:00,900,Shopping,Accessories
+2026-02-22 00:00:00,150,Transport,Metro
+2026-02-25 00:00:00,650,Food,Groceries
+2026-03-02 00:00:00,350,Food,Lunch
+2026-03-05 00:00:00,1100,Shopping,Clothes
+2026-03-08 00:00:00,300,Transport,Auto
+2026-03-10 00:00:00,800,Food,Dinner
+2026-03-12 00:00:00,2000,Rent,March Rent
+2026-03-15 00:00:00,250,Food,Snacks
+2026-03-18 00:00:00,600,Entertainment,Trip
+2026-03-20 00:00:00,950,Shopping,Shoes
+2026-03-22 00:00:00,200,Transport,Taxi
+2026-03-25 00:00:00,700,Food,Groceries
+2026-04-02 00:00:00,400,Food,Lunch
+2026-04-05 00:00:00,1300,Shopping,Electronics
+2026-04-08 00:00:00,350,Transport,Auto
+2026-04-10 00:00:00,900,Food,Dinner
+2026-04-12 00:00:00,2000,Rent,April Rent
+2026-04-15 00:00:00,300,Food,Snacks
+2026-04-18 00:00:00,700,Entertainment,Concert
+2026-04-20 00:00:00,1000,Shopping,Clothes
+2026-04-22 00:00:00,250,Transport,Metro
+2026-04-25 00:00:00,750,Food,Groceries
+2026-05-02 00:00:00,450,Food,Lunch
+2026-05-05 00:00:00,1400,Shopping,Phone Accessories
+2026-05-08 00:00:00,300,Transport,Auto
+2026-05-10 00:00:00,850,Food,Dinner
+2026-05-12 00:00:00,2000,Rent,May Rent
+2026-05-15 00:00:00,350,Food,Snacks
+2026-05-18 00:00:00,800,Entertainment,Trip
+2026-05-20 00:00:00,1100,Shopping,Clothes
+2026-05-22 00:00:00,200,Transport,Taxi
+2026-05-25 00:00:00,800,Food,Groceries
+2026-06-02 00:00:00,500,Food,Lunch
+2026-06-05 00:00:00,1500,Shopping,Shoes
+2026-06-08 00:00:00,350,Transport,Auto
+2026-06-10 00:00:00,950,Food,Dinner
+2026-06-12 00:00:00,2000,Rent,June Rent
+2026-06-15 00:00:00,400,Food,Snacks
+2026-06-18 00:00:00,900,Entertainment,Concert
+2026-06-20 00:00:00,1200,Shopping,Electronics
+2026-06-22 00:00:00,300,Transport,Metro
+2026-06-25 00:00:00,850,Food,Groceries
+2026-01-02 00:00:00,250,Food,Breakfast
+2026-01-05 00:00:00,1200,Shopping,Shoes
+2026-01-08 00:00:00,300,Transport,Auto
+2026-01-10 00:00:00,500,Food,Dinner
+2026-01-12 00:00:00,2000,Rent,January Rent
+2026-01-15 00:00:00,150,Food,Snacks
+2026-01-18 00:00:00,400,Entertainment,Movie
+2026-01-20 00:00:00,800,Shopping,Clothes
+2026-01-22 00:00:00,100,Transport,Bus
+2026-01-25 00:00:00,600,Food,Groceries
+2026-02-02 00:00:00,300,Food,Lunch
+2026-02-05 00:00:00,1000,Shopping,Bag
+2026-02-08 00:00:00,250,Transport,Auto
+2026-02-10 00:00:00,700,Food,Dinner
+2026-02-12 00:00:00,2000,Rent,February Rent
+2026-02-15 00:00:00,200,Food,Snacks
+2026-02-18 00:00:00,500,Entertainment,Concert
+2026-02-20 00:00:00,900,Shopping,Accessories
+2026-02-22 00:00:00,150,Transport,Metro
+2026-02-25 00:00:00,650,Food,Groceries
+2026-03-02 00:00:00,350,Food,Lunch
+2026-03-05 00:00:00,1100,Shopping,Clothes
+2026-03-08 00:00:00,300,Transport,Auto
+2026-03-10 00:00:00,800,Food,Dinner
+2026-03-12 00:00:00,2000,Rent,March Rent
+2026-03-15 00:00:00,250,Food,Snacks
+2026-03-18 00:00:00,600,Entertainment,Trip
+2026-03-20 00:00:00,950,Shopping,Shoes
+2026-03-22 00:00:00,200,Transport,Taxi
+2026-03-25 00:00:00,700,Food,Groceries
+
